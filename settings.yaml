@@ -1,0 +1,7 @@
+influx:
+  host: localhost
+  port: 8086
+
+grafana:
+  host: localhost
+  port: 3000
