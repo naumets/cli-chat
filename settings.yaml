@@ -1,3 +1,5 @@
+collector: influxdb  # options: file, influxdb
+
 influx:
   host: localhost
   port: 8086
